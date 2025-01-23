@@ -19,8 +19,8 @@ For Part B:
 
 2) if you rather would prefer online tools to run the code:
 
--Please open the Python file named as 'NRTL ParameterOpt_TerminalPrint.py' and copy its content to online Python code editors (such as https://www.w3schools.com/python/scipy/trypython.php?filename=demo_scipy_editor/).
--Please open the Python file named as 'PhaseEquilibria_VdW_NRTL_TerminalPrint.py' and copy its content to online Python code editors (such as https://www.w3schools.com/python/scipy/trypython.php?filename=demo_scipy_editor/).
+-Please open the Python file named as 'NRTL ParameterOpt_TerminalPrint.py' and copy its content to online Python code editors (such as https://www.w3schools.com/python/scipy/trypython.php?filename=demo_scipy_editor).
+-Please open the Python file named as 'PhaseEquilibria_VdW_NRTL_TerminalPrint.py' and copy its content to online Python code editors (such as https://www.w3schools.com/python/scipy/trypython.php?filename=demo_scipy_editor).
 -The results will appear at the terminal of the compiler, and then the plots will appear.
 
 
